@@ -1,0 +1,10 @@
+[
+   {
+        "id": "5742f3e3-c288-44a3-8823-b8475f2ce091",
+        "username" : "Jsmith",
+        "email":"Jsmith14@gmail.com",
+        "password":"ILoveMusic123",
+        "joinDate":"2025-02-22T18:15:44.923163",
+        "favorites": ["id1","id2"]
+   } 
+]
